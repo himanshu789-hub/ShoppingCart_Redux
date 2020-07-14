@@ -1,0 +1,5 @@
+[
+  { "Id": 1, "Name": "iPadMini", "Price": 4785.78, "Image": "./IPadMini.jpeg" },
+  { "Id": 2, "Name": "CDPlayer", "Price": 452.78, "Image": "./CDPlayer.jpeg" },
+  { "Id": 3, "Name": "Nike T-Shirt", "Price": 35.78, "Image": "./NikeTShirt.jpeg" }
+]
